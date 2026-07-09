@@ -190,6 +190,7 @@ Inclusion bar:
 - [Countly](https://github.com/Countly/countly-server) - Analytics and engagement platform. Countly Lite License.
 - [Metabase](https://github.com/metabase/metabase) - BI and embedded analytics. AGPL core with the Metabase Commercial License.
 - [Laudspeaker](https://github.com/laudspeaker/laudspeaker) - Customer engagement and onboarding platform. AGPLv3 core with an `ee/` directory.
+- [Message Decision Packs](https://github.com/orchidautomation/message-decision-packs) - CLI and agent plugin for GTM message decision and context packs. Elastic License 2.0.
 - [GTM Developer Tools Knowledge Graph](https://github.com/kgilbride/adamgtmdevelopertools) - Interactive map of GTM developer tools. README-stated MIT viewer with underlying data and methodology attributed to adamgtm.com.
 - [Team OS Example Repo](https://github.com/in-the-weeds-hannah-stulberg/team-os-example-repo) - Example team knowledge base for AI-assisted product and growth work. CC BY-NC 4.0.
 
