@@ -117,6 +117,10 @@ Inclusion bar:
 [![GitHub stars](https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=social)](https://github.com/coreyhaines31/marketingskills)
 - [GTM Cheat Codes](https://github.com/zapier/gtm-cheat-codes) - Installable GTM skills for campaign planning, CRM context, and proof workflows.
 [![GitHub stars](https://img.shields.io/github/stars/zapier/gtm-cheat-codes?style=social)](https://github.com/zapier/gtm-cheat-codes)
+- [Apollo Operator](https://github.com/jimmy-creatop/apollo-operator) - Claude Code skill system for Apollo outbound targeting, list building, sequences, deliverability, and iteration.
+[![GitHub stars](https://img.shields.io/github/stars/jimmy-creatop/apollo-operator?style=social)](https://github.com/jimmy-creatop/apollo-operator)
+- [Cold Outbound Skills](https://github.com/growthenginenowoslawski/coldoutboundskills) - Claude Code skills for cold email strategy, infrastructure, list building, copy, sending, and campaign iteration.
+[![GitHub stars](https://img.shields.io/github/stars/growthenginenowoslawski/coldoutboundskills?style=social)](https://github.com/growthenginenowoslawski/coldoutboundskills)
 - [Rudder Agent Skills](https://github.com/rudderlabs/rudder-agent-skills) - Agent skills for tracking plans, transformations, profiles, and RudderStack operations.
 [![GitHub stars](https://img.shields.io/github/stars/rudderlabs/rudder-agent-skills?style=social)](https://github.com/rudderlabs/rudder-agent-skills)
 - [OpenDirectory](https://github.com/Varnan-Tech/opendirectory) - Marketing-focused agent skills for founders running GTM work themselves.
@@ -149,6 +153,10 @@ Inclusion bar:
 [![GitHub stars](https://img.shields.io/github/stars/leemunroe/responsive-html-email-template?style=social)](https://github.com/leemunroe/responsive-html-email-template)
 - [Colorlib Email Templates](https://github.com/ColorlibHQ/email-templates) - HTML email template pack for newsletters and promotional sends.
 [![GitHub stars](https://img.shields.io/github/stars/ColorlibHQ/email-templates?style=social)](https://github.com/ColorlibHQ/email-templates)
+- [GTM Starter Kit](https://github.com/KarlRaf/gtm-starter-kit) - Claude Code starter repository with GTM context templates, skills, workflows, and sample campaign outputs.
+[![GitHub stars](https://img.shields.io/github/stars/KarlRaf/gtm-starter-kit?style=social)](https://github.com/KarlRaf/gtm-starter-kit)
+- [Context OS](https://github.com/jacob-dietle/context-os) - Quickstart for building AI-readable knowledge systems for GTM, product, and research workflows.
+[![GitHub stars](https://img.shields.io/github/stars/jacob-dietle/context-os?style=social)](https://github.com/jacob-dietle/context-os)
 
 ## Learning & Curated Lists
 
@@ -182,6 +190,8 @@ Inclusion bar:
 - [Countly](https://github.com/Countly/countly-server) - Analytics and engagement platform. Countly Lite License.
 - [Metabase](https://github.com/metabase/metabase) - BI and embedded analytics. AGPL core with the Metabase Commercial License.
 - [Laudspeaker](https://github.com/laudspeaker/laudspeaker) - Customer engagement and onboarding platform. AGPLv3 core with an `ee/` directory.
+- [GTM Developer Tools Knowledge Graph](https://github.com/kgilbride/adamgtmdevelopertools) - Interactive map of GTM developer tools. README-stated MIT viewer with underlying data and methodology attributed to adamgtm.com.
+- [Team OS Example Repo](https://github.com/in-the-weeds-hannah-stulberg/team-os-example-repo) - Example team knowledge base for AI-assisted product and growth work. CC BY-NC 4.0.
 
 ## Contributing
 
