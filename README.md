@@ -136,6 +136,8 @@ Inclusion bar:
 [![GitHub stars](https://img.shields.io/github/stars/eliasstravik/mold?style=social)](https://github.com/eliasstravik/mold)
 - [Stockpile](https://github.com/eliasstravik/stockpile) - Enrichment cache for GTM data workflows.
 [![GitHub stars](https://img.shields.io/github/stars/eliasstravik/stockpile?style=social)](https://github.com/eliasstravik/stockpile)
+- [gtm-pipeline](https://github.com/kkrlstrm/gtm-pipeline) - Runtime for turning campaign briefs into qualified, enriched, sequencer-ready contact lists.
+[![GitHub stars](https://img.shields.io/github/stars/kkrlstrm/gtm-pipeline?style=social)](https://github.com/kkrlstrm/gtm-pipeline)
 - [Meltano](https://github.com/meltano/meltano) - Code-first ELT engine for feeding GTM warehouses and reporting stacks.
 [![GitHub stars](https://img.shields.io/github/stars/meltano/meltano?style=social)](https://github.com/meltano/meltano)
 - [Apache Superset](https://github.com/apache/superset) - BI dashboards for pipeline, funnel, and revenue reporting.
