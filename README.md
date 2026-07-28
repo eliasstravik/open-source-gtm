@@ -138,6 +138,8 @@ Inclusion bar:
 [![GitHub stars](https://img.shields.io/github/stars/eliasstravik/stockpile?style=social)](https://github.com/eliasstravik/stockpile)
 - [gtm-pipeline](https://github.com/kkrlstrm/gtm-pipeline) - Runtime for turning campaign briefs into qualified, enriched, sequencer-ready contact lists.
 [![GitHub stars](https://img.shields.io/github/stars/kkrlstrm/gtm-pipeline?style=social)](https://github.com/kkrlstrm/gtm-pipeline)
+- [Argus](https://github.com/Agent-Deployment-Co/argus) - Desktop app and CLI that helps find and fix wasted AI agent work, focused on business tasks rather than code.
+[![GitHub stars](https://img.shields.io/github/stars/Agent-Deployment-Co/argus?style=social)](https://github.com/Agent-Deployment-Co/argus)
 - [Meltano](https://github.com/meltano/meltano) - Code-first ELT engine for feeding GTM warehouses and reporting stacks.
 [![GitHub stars](https://img.shields.io/github/stars/meltano/meltano?style=social)](https://github.com/meltano/meltano)
 - [Apache Superset](https://github.com/apache/superset) - BI dashboards for pipeline, funnel, and revenue reporting.
