@@ -151,6 +151,8 @@ Inclusion bar:
 [![GitHub stars](https://img.shields.io/github/stars/YuriCrystal/n8n-marketing-flows?style=social)](https://github.com/YuriCrystal/n8n-marketing-flows)
 - [n8n Automation Templates 5000](https://github.com/ritik-prog/n8n-automation-templates-5000) - Large collection of n8n workflows covering CRM, marketing, and outreach.
 [![GitHub stars](https://img.shields.io/github/stars/ritik-prog/n8n-automation-templates-5000?style=social)](https://github.com/ritik-prog/n8n-automation-templates-5000)
+- [Synthetic RevOps Lead Intake Demo](https://github.com/jbventures-operator/n8n-revops-reliability-demo) - Credential-free n8n workflow that uses synthetic leads to demonstrate normalization, idempotency-key deduplication, invalid-input rejection, and SLA routing without external writes.
+[![GitHub stars](https://img.shields.io/github/stars/jbventures-operator/n8n-revops-reliability-demo?style=social)](https://github.com/jbventures-operator/n8n-revops-reliability-demo)
 - [Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) - Minimal starter template for campaign emails.
 [![GitHub stars](https://img.shields.io/github/stars/leemunroe/responsive-html-email-template?style=social)](https://github.com/leemunroe/responsive-html-email-template)
 - [Colorlib Email Templates](https://github.com/ColorlibHQ/email-templates) - HTML email template pack for newsletters and promotional sends.
