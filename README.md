@@ -74,6 +74,8 @@ Inclusion bar:
 [![GitHub stars](https://img.shields.io/github/stars/rybbit-io/rybbit?style=social)](https://github.com/rybbit-io/rybbit)
 - [OpenPanel](https://github.com/Openpanel-dev/openpanel) - Product and web analytics for event tracking and self-hosted dashboards.
 [![GitHub stars](https://img.shields.io/github/stars/Openpanel-dev/openpanel?style=social)](https://github.com/Openpanel-dev/openpanel)
+- [Talivia](https://github.com/talivia-group/talivia) - Revenue-first web and product analytics connecting acquisition sources, sessions, funnels, events, and session replay to customer revenue.
+[![GitHub stars](https://img.shields.io/github/stars/talivia-group/talivia?style=social)](https://github.com/talivia-group/talivia)
 - [Multiwoven](https://github.com/Multiwoven/multiwoven) - Reverse ETL for syncing warehouse data back into GTM tools.
 [![GitHub stars](https://img.shields.io/github/stars/Multiwoven/multiwoven?style=social)](https://github.com/Multiwoven/multiwoven)
 - [Jitsu](https://github.com/jitsucom/jitsu) - Segment-style event pipeline for routing customer and product data.
