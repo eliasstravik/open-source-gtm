@@ -128,6 +128,7 @@ Inclusion bar:
 
 ## Libraries, CLIs & Tools
 
+- [Telegram Sponsorship Quote Comparator](https://github.com/thinkpad2050/telegram-sponsorship-cpm-calculator) - MIT-licensed browser calculator for comparing Telegram sponsorship quotes against median recent post views.
 - [Rowbound](https://github.com/eliasstravik/rowbound) - CLI and MCP server for Google Sheets enrichment workflows.
 [![GitHub stars](https://img.shields.io/github/stars/eliasstravik/rowbound?style=social)](https://github.com/eliasstravik/rowbound)
 - [Wedge](https://github.com/eliasstravik/wedge) - Chrome extension for sending data into Clay.
