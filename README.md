@@ -125,6 +125,8 @@ Inclusion bar:
 [![GitHub stars](https://img.shields.io/github/stars/rudderlabs/rudder-agent-skills?style=social)](https://github.com/rudderlabs/rudder-agent-skills)
 - [OpenDirectory](https://github.com/Varnan-Tech/opendirectory) - Marketing-focused agent skills for founders running GTM work themselves.
 [![GitHub stars](https://img.shields.io/github/stars/Varnan-Tech/opendirectory?style=social)](https://github.com/Varnan-Tech/opendirectory)
+- [Datacircle](https://github.com/waynehamadi/datacircle) - Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
+[![GitHub stars](https://img.shields.io/github/stars/waynehamadi/datacircle?style=social)](https://github.com/waynehamadi/datacircle)
 
 ## Libraries, CLIs & Tools
 
